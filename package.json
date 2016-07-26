@@ -1,6 +1,6 @@
 {
   "name": "afinn-111",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AFINN 111 (list of English words rated for valence) in JSON",
   "license": "MIT",
   "keywords": [
@@ -19,11 +19,12 @@
     "index.js",
     "index.json"
   ],
-  "repository": "https://github.com/wooorm/afinn-111",
-  "bugs": "https://github.com/wooorm/afinn-111/issues",
+  "repository": "https://github.com/colearnr/afinn-111",
+  "bugs": "https://github.com/colearnr/afinn-111/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
   "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+    "Prabhu Subramanian <prabhu@colearnr.com>"
   ],
   "dependencies": {},
   "devDependencies": {
