@@ -1,6 +1,6 @@
 {
   "name": "afinn-111",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "AFINN 111 (list of English words rated for valence) in JSON. Enhanced for CoLearnr.",
   "license": "MIT",
   "keywords": [
